@@ -68,7 +68,7 @@ url = {https://github.com/zengsn/muct-cropped/}
 
 ## Benchmark work
 
-[1] Pose and illumination variable face recognition via sparse representation and illumination dictionary, 2016
-[2] Integration of multiple soft biometrics for human identification, 2015
-[3] Fusion of lattice independent and linear features improving face identification, 2013
-[4] Dual Sparse Learning via Sample Augmentation in Dictionary Learning for Face Image Classification, (to be published)
+[1] Pose and illumination variable face recognition via sparse representation and illumination dictionary, 2016  
+[2] Integration of multiple soft biometrics for human identification, 2015  
+[3] Fusion of lattice independent and linear features improving face identification, 2013  
+[4] Dual Sparse Learning via Sample Augmentation in Dictionary Learning for Face Image Classification, 2018 (to be published)  
