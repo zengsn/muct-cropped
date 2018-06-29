@@ -46,23 +46,25 @@ numOfTrain=8; % 1 - 8
 prepareTrainDataDeep; % split data to training and testing set
 ```  
 
+The tool to extract deep features via FaceNet can be found in https://github.com/zengsn/facenet .
+
 ## Please cite our work, as well as the original MUCT
 
 ```   
 @article{Milborrow10,
-  author={S. Milborrow and J. Morkel and F. Nicolls},
-  title={{The MUCT Landmarked Face Database}},
+  author ={S. Milborrow and J. Morkel and F. Nicolls},
+  title  ={{The MUCT Landmarked Face Database}},
   journal={Pattern Recognition Association of South Africa},
-  year=2010,
-  note={\url{http://www.milbo.org/muct}}
+  year   =2010,
+  note   ={\url{http://www.milbo.org/muct}}
 }
 
-@misc{snzeng2018,
-author = {Shaoning, Zeng},
-title = {The Cropped MUCT Landmarked Face Database},
-month = jun,
-year = {2018},
-url = {https://github.com/zengsn/muct-cropped/}
+@misc{Zeng2018,
+  author = {Shaoning, Zeng},
+  title  = {The Cropped MUCT Landmarked Face Database},
+  month  = jun,
+  year   = {2018},
+  url    = {https://github.com/zengsn/muct-cropped/}
 }
 ```  
 
@@ -71,4 +73,4 @@ url = {https://github.com/zengsn/muct-cropped/}
 [1] Pose and illumination variable face recognition via sparse representation and illumination dictionary, 2016  
 [2] Integration of multiple soft biometrics for human identification, 2015  
 [3] Fusion of lattice independent and linear features improving face identification, 2013  
-[4] Dual Sparse Learning via Sample Augmentation in Dictionary Learning for Face Image Classification, 2018 (to be published)  
+[4] Our work (96+%), 2018, to be published.   
